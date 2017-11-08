@@ -3,9 +3,9 @@
 **Created:** Oct. 17 2017  
 **Actor:** Student User  
 **Description:**  Students perform a listing search with no results  
-**Trigger:**  The student performs a search with no results
-**Type:**  Internal
-**Preconditions:**  The student clicked "Search Listings" on the UC-2 Form
+**Trigger:**  The student performs a search with no results  
+**Type:**  Internal  
+**Preconditions:**  The student clicked "Search Listings" on the UC-2 Form  
 **Normal Course:**  
 1. The Student User clicks "Return to previous form"
 
